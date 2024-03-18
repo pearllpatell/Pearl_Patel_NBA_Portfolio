@@ -1,2 +1,2 @@
 # Pearl_Patel_NBA_Portfolio
-Portfolio using Python (pandas, numpy) to focus on statistics of the National Basketball Association. 
+Portfolio using Python (pandas, numpy) and Tableau to focus on statistics of the National Basketball Association. 
