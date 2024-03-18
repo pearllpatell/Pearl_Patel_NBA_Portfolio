@@ -1,2 +1,2 @@
-# Pearl Patel NBA Portfolio
-Portfolio using Python (pandas, numpy) and Tableau to focus on statistics of the National Basketball Association. 
+# Pearl Patel Portfolio
+Portfolio using Python (pandas, numpy) and Tableau to showcase analyzing data. 
