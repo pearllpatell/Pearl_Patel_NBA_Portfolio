@@ -1,2 +1,2 @@
 # Pearl Patel Portfolio
-Portfolio using Python (pandas, numpy) and Tableau to showcase analyzing data. 
+Portfolio to demonstrate proficiency in data analysis with Python, utilizing libraries such as pandas and NumPy, complemented by Tableau for visualization, showcases an advanced ability to interpret and present complex datasets. 
