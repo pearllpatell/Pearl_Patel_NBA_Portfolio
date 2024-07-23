@@ -5,6 +5,9 @@ The SQL files showcase the creation of databases and tables, as well as the exec
 
 
 Tableau Dashboards:
+
 https://us-east-1.online.tableau.com/t/austinfc/views/PlayerStatistics/GameStats?:origin=card_share_link&:embed=n
+
 https://us-east-1.online.tableau.com/t/austinfc/views/PlayerStatistics/DemographicDashboard?:origin=card_share_link&:embed=n
+
 https://us-east-1.online.tableau.com/t/austinfc/views/CustomJerseyDashboard/JerseyDashboard?:origin=card_share_link&:embed=n
